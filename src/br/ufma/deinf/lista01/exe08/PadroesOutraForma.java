@@ -55,7 +55,7 @@ public class PadroesOutraForma {
             System.out.println("");
         }
         
-                //LETRA D
+        //LETRA D
         
         for (i = 10; i >= 1; i--) {
             for ( k = 1; k < i; k++) {

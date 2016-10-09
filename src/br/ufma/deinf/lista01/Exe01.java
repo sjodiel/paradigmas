@@ -6,9 +6,7 @@
 package br.ufma.deinf.lista01;
 
 import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.util.Scanner;
-//import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 /**
  *
@@ -28,9 +26,6 @@ public class Exe01 {
         
         System.out.println("Informe a quilometragem: ");
         km = input.nextInt();
-        
-        //System.out.println("");
-        //litros = input.nextInt();
         
         DecimalFormat formatar = new DecimalFormat("#.##");
         

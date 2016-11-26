@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.ufma.deinf.lista01;
+package br.ufma.deinf.lista01;                  
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
